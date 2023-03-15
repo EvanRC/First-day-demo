@@ -1,2 +1,2 @@
 # First-day-demo
-Demo Repo for first projrct
+Demo Repo for first project
